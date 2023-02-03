@@ -5,8 +5,13 @@
 
 #Own changes
 
--Removed games \n
+-Removed games 
+
 -Added more nfc keys
+
 -Tesla assets loaded by default
+
 -BT expanded api( in progress)
+
 -Most of the internal apps moved to external storage
+
