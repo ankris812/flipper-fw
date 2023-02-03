@@ -5,7 +5,7 @@
 
 #Own changes
 
--Removed games
+-Removed games \n
 -Added more nfc keys
 -Tesla assets loaded by default
 -BT expanded api( in progress)
