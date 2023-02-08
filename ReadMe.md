@@ -11,6 +11,6 @@
 -Most of the internal apps moved to external storage  
 
 
-# Security updates ( to fix reported vulnerabilities)
+# other updates
 Protobuff 3.20.1 -> 3.20.2
 Pillow (Python package) 9.1.1 -> 9.3.0
